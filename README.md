@@ -1,3 +1,3 @@
-#Hyperspectral Unmixing Via Plug-And-Play Priors
+# Hyperspectral Unmixing Via Plug-And-Play Priors
 
-#A Plug-and-Play Priors Framework for Hyperspectral Unmixing
+# A Plug-and-Play Priors Framework for Hyperspectral Unmixing
