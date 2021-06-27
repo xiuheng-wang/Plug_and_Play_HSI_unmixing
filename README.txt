@@ -4,7 +4,7 @@ Run plug_abundance.m to conduct unmixing by denoising abundance maps;
 
 Run plug_image.m to conduct unmixing by denoising reconstructed images;
 
-For any questions, feel free to email me at minzhao@mail.nwpu.edu.cn, xiuheng.wang@mail.nwpu.edu.cn.
+For any questions, feel free to email us at minzhao@mail.nwpu.edu.cn, xiuheng.wang@mail.nwpu.edu.cn.
 
 If this code is helpful for you, please cite our paper as follows:
 
