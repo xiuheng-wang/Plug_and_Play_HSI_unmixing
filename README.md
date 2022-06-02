@@ -18,9 +18,11 @@ If this code is helpful for you, please cite our paper as follows:
     }
 
     @article{zhao2021plug,
-      title={A Plug-and-Play Priors Framework for Hyperspectral Unmixing},
+      title={A plug-and-play priors framework for hyperspectral unmixing},
       author={Zhao, Min and Wang, Xiuheng and Chen, Jie and Chen, Wei},
       journal={IEEE Transactions on Geoscience and Remote Sensing},
+      volume={60},
+      pages={1--13},
       year={2021},
       publisher={IEEE}
     }
